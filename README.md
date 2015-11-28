@@ -4,7 +4,8 @@ A curated list of awesome distributed systems books, papers, resources and shiny
 ## Bootcamp
 * [CAP Theorem](http://en.wikipedia.org/wiki/CAP_theorem)
 * [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
-* [Distributed systems theory for the distributed engineer](http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/)(Chinese version: [面向分布式系统工程师的分布式系统理论](http://blog.xiayf.cn/2014/08/10/Distributed-systems-theory-for-the-distributed-systems-engineer/))
+* [Distributed systems theory for the distributed engineer](http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/)   
+Chinese version: [面向分布式系统工程师的分布式系统理论](http://blog.xiayf.cn/2014/08/10/Distributed-systems-theory-for-the-distributed-systems-engineer/)
 
 ## Books
 * [Distributed Systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
@@ -49,7 +50,8 @@ A curated list of awesome distributed systems books, papers, resources and shiny
 * [Design and Implementation of a Query Processor for a Trusted Distributed Data Base Management System](http://www.utdallas.edu/%7Ebxt043000/Publications/Journal-Papers/DAS/J16_Design_and_Implementation_of_a_Distributed_Query_Processor.pdf)
 
 ### Messaging Systems
-* [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)(Chinese version [日志：每个软件工程师都应该知道的有关实时数据的统一概念](http://www.oschina.net/translate/log-what-every-software-engineer-should-know-about-real-time-datas-unifying?lang=chs&page=1#))
+* [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)   
+Chinese version [日志：每个软件工程师都应该知道的有关实时数据的统一概念](http://www.oschina.net/translate/log-what-every-software-engineer-should-know-about-real-time-datas-unifying?lang=chs&page=1#)
 * [Kafka: a Distributed Messaging System for Log Processin](http://notes.stephenholiday.com/Kafka.pdf)
 
 ### Distributed Consensus
