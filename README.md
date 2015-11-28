@@ -49,8 +49,7 @@ A curated list of awesome distributed systems books, papers, resources and shiny
 * [Design and Implementation of a Query Processor for a Trusted Distributed Data Base Management System](http://www.utdallas.edu/%7Ebxt043000/Publications/Journal-Papers/DAS/J16_Design_and_Implementation_of_a_Distributed_Query_Processor.pdf)
 
 ### Messaging Systems
-* [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)   
-Chinese version [日志：每个软件工程师都应该知道的有关实时数据的统一概念](http://www.oschina.net/translate/log-what-every-software-engineer-should-know-about-real-time-datas-unifying?lang=chs&page=1#)
+* [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)(Chinese version [日志：每个软件工程师都应该知道的有关实时数据的统一概念](http://www.oschina.net/translate/log-what-every-software-engineer-should-know-about-real-time-datas-unifying?lang=chs&page=1#))
 * [Kafka: a Distributed Messaging System for Log Processin](http://notes.stephenholiday.com/Kafka.pdf)
 
 ### Distributed Consensus
