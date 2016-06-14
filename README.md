@@ -44,7 +44,7 @@ Chinese version: [面向分布式系统工程师的分布式系统理论](http:/
 
 ### Data Processing
 * [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/mapreduce-osdi04.pdf)
-
+* [Pregel: A System for Large-Scale Graph Processing](http://www.dcs.bbk.ac.uk/~dell/teaching/cc/paper/sigmod10/p135-malewicz.pdf)
 
 ### Query Processing
 * [Design and Implementation of a Query Processor for a Trusted Distributed Data Base Management System](http://www.utdallas.edu/%7Ebxt043000/Publications/Journal-Papers/DAS/J16_Design_and_Implementation_of_a_Distributed_Query_Processor.pdf)
