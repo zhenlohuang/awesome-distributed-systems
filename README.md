@@ -12,6 +12,7 @@ Chinese version: [面向分布式系统工程师的分布式系统理论](http:/
 * [Distributed Systems Concepts and Design(Fifth Edition) - George Coulouris](https://azmuri.files.wordpress.com/2013/09/george-coulouris-distributed-systems-concepts-and-design-5th-edition.pdf)
 * [Distributed Systems Principles and Paradigms - Andrew Tanenbaum](http://sist.sysu.edu.cn/~wuweig/DCC/DistributedSystemsPrinciplesandParadigms\(2nd%20edition\)-2007-Tanenbaum.pdf)
 * [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
+* [Distributed Machine Learning Patters - Yuan Tang](https://github.com/terrytangyuan/distributed-ml-patterns), Practical patterns for scaling machine learning from your laptop to a distributed cluster.
 
 ## Courses
 * [Cloud Computing Concepts](https://class.coursera.org/cloudcomputing-001), University of Illinois
@@ -40,7 +41,8 @@ Chinese version: [面向分布式系统工程师的分布式系统理论](http:/
 
 ### Resource Management
 * [Apache Hadoop YARN: Yet Another Resource Negotiator](https://www.sics.se/~amir/files/download/dic/2013%20-%20Apache%20Hadoop%20YARN:%20Yet%20Another%20Resource%20Negotiator%20\(SoCC\).pdf)
-* [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](https://www.cs.berkeley.edu/~alig/papers/mesos.pdf)
+* [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center
+](https://www.cs.berkeley.edu/~alig/papers/mesos.pdf)
 
 ### Data Processing
 * [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/mapreduce-osdi04.pdf)
