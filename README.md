@@ -12,7 +12,7 @@ Chinese version: [面向分布式系统工程师的分布式系统理论](http:/
 * [Distributed Systems Concepts and Design(Fifth Edition) - George Coulouris](https://azmuri.files.wordpress.com/2013/09/george-coulouris-distributed-systems-concepts-and-design-5th-edition.pdf)
 * [Distributed Systems Principles and Paradigms - Andrew Tanenbaum](http://sist.sysu.edu.cn/~wuweig/DCC/DistributedSystemsPrinciplesandParadigms\(2nd%20edition\)-2007-Tanenbaum.pdf)
 * [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
-* [Distributed Machine Learning Patters - Yuan Tang](https://github.com/terrytangyuan/distributed-ml-patterns), Practical patterns for scaling machine learning from your laptop to a distributed cluster.
+* [Distributed Machine Learning Patterns - Yuan Tang](https://github.com/terrytangyuan/distributed-ml-patterns), Practical patterns for scaling machine learning from your laptop to a distributed cluster.
 
 ## Courses
 * [Cloud Computing Concepts](https://class.coursera.org/cloudcomputing-001), University of Illinois
