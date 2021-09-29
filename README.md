@@ -13,6 +13,7 @@ Chinese version: [面向分布式系统工程师的分布式系统理论](http:/
 * [Distributed Systems Principles and Paradigms - Andrew Tanenbaum](http://sist.sysu.edu.cn/~wuweig/DCC/DistributedSystemsPrinciplesandParadigms\(2nd%20edition\)-2007-Tanenbaum.pdf)
 * [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
 * [Distributed Machine Learning Patterns - Yuan Tang](https://github.com/terrytangyuan/distributed-ml-patterns), Practical patterns for scaling machine learning from your laptop to a distributed cluster.
+* [Akka in Action, Second Edition - Francisco Lopez-Sancho Abraham](https://www.manning.com/books/akka-in-action-second-edition), Use Akka to solve the big problems of distributed systems—from multithreading and concurrency, to handling scalability and failure.
 
 ## Courses
 * [Cloud Computing Concepts](https://class.coursera.org/cloudcomputing-001), University of Illinois
